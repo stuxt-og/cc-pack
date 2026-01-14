@@ -1,0 +1,68 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/paper"
+    },
+    "cases": [
+      {
+        "when": "wallet",
+        "model": {
+          "type": "model",
+          "model": "item/wallet"
+        }
+      },
+	  {
+        "when": "card",
+        "model": {
+          "type": "model",
+          "model": "item/card"
+        }
+      },
+	  {
+        "when": "card2",
+        "model": {
+          "type": "model",
+          "model": "item/card2"
+        }
+      },
+	  {
+        "when": "card3",
+        "model": {
+          "type": "model",
+          "model": "item/card3"
+        }
+      },
+	  {
+        "when": "strange_dust",
+        "model": {
+          "type": "model",
+          "model": "item/strange_dust"
+        }
+	  },
+	  {
+        "when": "gold_lock",
+        "model": {
+          "type": "model",
+          "model": "item/gold_lock"
+        }
+	  },
+	  {
+        "when": "netherite_lock",
+        "model": {
+          "type": "model",
+          "model": "item/netherite_lock"
+        }
+	  },
+	  {
+        "when": "empty",
+        "model": {
+          "type": "model",
+          "model": "item/empty"
+        }
+	  }
+    ]
+  }
+}
