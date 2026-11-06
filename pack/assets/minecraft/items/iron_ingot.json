@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_ingot"
+    },
+    "cases": [
+      {
+        "when": ["player_card"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/player_card"
+        }
+      },
+      {
+        "when": ["state_card"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/state_card"
+        }
+      },
+      {
+        "when": ["bankomat"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/bankomat"
+        }
+      },
+      {
+        "when": ["bg"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/bg"
+        }
+      },
+      {
+        "when": ["confirm"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/confirm"
+        }
+      },
+      {
+        "when": ["cancel"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "cp2:item/cancel"
+        }
+      }
+    ]
+  }
+}

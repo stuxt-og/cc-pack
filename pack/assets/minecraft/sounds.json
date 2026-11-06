@@ -1,0 +1,52 @@
+{
+  "krirdushi": {
+    "category": "master",
+    "sounds": [
+      "krirdushi"
+    ]
+  },
+    "alarm1": {
+    "category": "master",
+    "sounds": [
+      "alarm1"
+    ]
+  },
+    "ambientlor": {
+    "category": "master",
+    "sounds": [
+      "ambientlor"
+    ]
+  },
+      "alarmnuke": {
+    "category": "master",
+    "sounds": [
+      "alarmnuke"
+    ]
+   },
+      "name5": {
+    "category": "master",
+    "sounds": [
+      "name5"
+    ]
+  },
+        "name6": {
+    "category": "master",
+    "sounds": [
+      "name6"
+    ]
+  },
+          "name7": {
+    "category": "master",
+    "sounds": [
+      "name7"
+    ]
+  },
+            "name8": {
+    "category": "master",
+    "sounds": [
+      "name8"
+    ]
+  }
+}
+
+
