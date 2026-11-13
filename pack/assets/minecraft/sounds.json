@@ -5,46 +5,28 @@
       "krirdushi"
     ]
   },
-    "alarm1": {
+  "alarm1": {
     "category": "master",
     "sounds": [
       "alarm1"
     ]
   },
-    "ambientlor": {
+  "ambientlor": {
     "category": "master",
     "sounds": [
       "ambientlor"
     ]
   },
-      "alarmnuke": {
+  "alarmnuke": {
     "category": "master",
     "sounds": [
       "alarmnuke"
     ]
    },
-      "name5": {
+  "lore_scene": {
     "category": "master",
     "sounds": [
-      "name5"
-    ]
-  },
-        "name6": {
-    "category": "master",
-    "sounds": [
-      "name6"
-    ]
-  },
-          "name7": {
-    "category": "master",
-    "sounds": [
-      "name7"
-    ]
-  },
-            "name8": {
-    "category": "master",
-    "sounds": [
-      "name8"
+      "lore_scene"
     ]
   }
 }
